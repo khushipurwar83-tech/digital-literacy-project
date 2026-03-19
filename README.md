@@ -13,19 +13,19 @@ This project was created as part of the Digital Literacy course. It focuses on b
 
 ##  Tasks Included
 
-###  Task 1 – Infographic
+####  Task 1 – Infographic
 Created a digital literacy awareness infographic using Canva.
 
-###  Task 2 – Digital Portfolio
+####  Task 2 – Digital Portfolio
 Developed professional profiles on GitHub and LinkedIn.
 
-###  Task 3 – Platforms
+####  Task 3 – Platforms
 Explored coding platforms and created a Google Form quiz.
 
-###  Task 4 – Email Etiquette
+####  Task 4 – Email Etiquette
 Drafted professional emails and created a social media checklist.
 
-###  Task 5 – Cybercrime Awareness
+####  Task 5 – Cybercrime Awareness
 Prepared a case study and prevention guide on cybercrime.
 
 ---

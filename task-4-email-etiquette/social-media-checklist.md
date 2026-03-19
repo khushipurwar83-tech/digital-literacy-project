@@ -1,4 +1,4 @@
-# Social Media Do’s and Don’ts for College Students
+# Social Media Do’s and Dont's for College Students
 
 ### Do’s
 - Maintain a professional and respectful profile  
@@ -7,7 +7,7 @@
 - Verify information before sharing  
 - Respect others and communicate politely  
 
-### Don’ts
+### Dont's
 - Do not share personal or sensitive information publicly  
 - Do not engage in cyberbullying or online arguments  
 - Do not spread fake news or misinformation  

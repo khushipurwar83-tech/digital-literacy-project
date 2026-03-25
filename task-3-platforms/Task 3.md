@@ -5,4 +5,4 @@ HackerRank Challenge: Completed "Solve Me First"
 
 ![Hacker2](https://github.com/khushipurwar83-tech/digital-literacy-project/blob/9b95c9fbd0883349d66ecdcaa15b8503ceebcb69/task-3-platforms/Hacker2.png)
 
-Google Form Link: [paste your link here]
+Google Form Link: [https://forms.gle/y5Ut8KGmZYBwTZHY8]

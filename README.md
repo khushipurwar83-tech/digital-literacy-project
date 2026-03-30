@@ -1,6 +1,6 @@
-# 📘 Digital Literacy Portfolio
+# Digital Literacy Portfolio
 
-## 👩‍🎓 Student Details
+## Student Details
 **Name:** Khushi  
 **Registration Number:** 25BCE10021  
 **Branch:** B.Tech CSE Core  
@@ -8,44 +8,36 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This repository contains my Digital Literacy Portfolio created as part of my role as a Student Digital Ambassador. The project focuses on building essential digital skills such as creating a professional online presence, practising coding, understanding online communication etiquette, and spreading awareness about cyber safety.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
-### 🔹 Task 1 – Infographic
+### Task 1 – Infographic
 - Created a digital literacy awareness infographic using Canva  
 - Covers topics like digital literacy, tools, safety, and email etiquette  
 
-📎 Link: *(Add your Canva link here)*  
-
 ---
 
-### 🔹 Task 2 – Digital Portfolio
+### Task 2 – Digital Portfolio
 - Created profiles on:
   - GitHub  
   - LinkedIn  
   - Kaggle  
-- Added a professional GitHub README  
-
-📎 GitHub: *(Add link)*  
-📎 LinkedIn: *(Add link)*  
-📎 Kaggle: *(Add link)*  
+- Added a professional GitHub README 
 
 ---
 
-### 🔹 Task 3 – Platforms
+### Task 3 – Platforms
 - Completed a beginner coding problem on HackerRank  
 - Created a Google Form quiz on Digital Literacy  
-
-📎 HackerRank Profile: *(Add link)*  
-📎 Google Form: *(Add link)*  
+📎 Google Form: https://forms.gle/y5Ut8KGmZYBwTZHY8  
 
 ---
 
-### 🔹 Task 4 – Email Etiquette
+### Task 4 – Email Etiquette
 - Drafted two professional emails:
   - Request for assignment extension  
   - Internship application  
@@ -53,7 +45,7 @@ This repository contains my Digital Literacy Portfolio created as part of my rol
 
 ---
 
-### 🔹 Task 5 – Cybercrime Awareness
+### Task 5 – Cybercrime Awareness
 - Case Study: UPI Fraud  
 - Created a prevention checklist for online safety  
 - Included reporting details (Cyber Crime Portal & Helpline 1930)  

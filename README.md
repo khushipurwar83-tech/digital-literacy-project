@@ -33,7 +33,7 @@ This repository contains my Digital Literacy Portfolio created as part of my rol
 ### Task 3 – Platforms
 - Completed a beginner coding problem on HackerRank  
 - Created a Google Form quiz on Digital Literacy  
-📎 Google Form: https://forms.gle/y5Ut8KGmZYBwTZHY8  
+  Google Form: https://forms.gle/y5Ut8KGmZYBwTZHY8  
 
 ---
 

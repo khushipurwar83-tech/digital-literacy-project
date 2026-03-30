@@ -1,39 +1,85 @@
-# Digital Literacy Portfolio
+# 📘 Digital Literacy Portfolio
 
- Name: Khushi Purwar  
- Branch: CSE  
- Year: 1st Year  
-
----
-
-##  Project Overview
-This project was created as part of the Digital Literacy course. It focuses on building essential digital skills such as online presence, communication, cybersecurity awareness, and the use of modern digital tools.
+## 👩‍🎓 Student Details
+**Name:** Khushi  
+**Registration Number:** 25BCE10021  
+**Branch:** B.Tech CSE Core  
+**Year:** 1st Year  
 
 ---
 
-##  Tasks Included
-
-####  Task 1 – Infographic
-Created a digital literacy awareness infographic using Canva.
-
-####  Task 2 – Digital Portfolio
-Developed professional profiles on GitHub and LinkedIn.
-
-####  Task 3 – Platforms
-Explored coding platforms and created a Google Form quiz.
-
-####  Task 4 – Email Etiquette
-Drafted professional emails and created a social media checklist.
-
-####  Task 5 – Cybercrime Awareness
-Prepared a case study and prevention guide on cybercrime.
+## 📌 Project Overview
+This repository contains my Digital Literacy Portfolio created as part of my role as a Student Digital Ambassador. The project focuses on building essential digital skills such as creating a professional online presence, practising coding, understanding online communication etiquette, and spreading awareness about cyber safety.
 
 ---
 
-##  Links
-(Add your Google Form link here later)
+## 📂 Repository Structure
+
+### 🔹 Task 1 – Infographic
+- Created a digital literacy awareness infographic using Canva  
+- Covers topics like digital literacy, tools, safety, and email etiquette  
+
+📎 Link: *(Add your Canva link here)*  
 
 ---
 
-## 📖 Conclusion
-This project helped me understand the importance of digital literacy and how to use digital tools effectively and responsibly.
+### 🔹 Task 2 – Digital Portfolio
+- Created profiles on:
+  - GitHub  
+  - LinkedIn  
+  - Kaggle  
+- Added a professional GitHub README  
+
+📎 GitHub: *(Add link)*  
+📎 LinkedIn: *(Add link)*  
+📎 Kaggle: *(Add link)*  
+
+---
+
+### 🔹 Task 3 – Platforms
+- Completed a beginner coding problem on HackerRank  
+- Created a Google Form quiz on Digital Literacy  
+
+📎 HackerRank Profile: *(Add link)*  
+📎 Google Form: *(Add link)*  
+
+---
+
+### 🔹 Task 4 – Email Etiquette
+- Drafted two professional emails:
+  - Request for assignment extension  
+  - Internship application  
+- Created a Social Media Do’s & Don’ts checklist  
+
+---
+
+### 🔹 Task 5 – Cybercrime Awareness
+- Case Study: UPI Fraud  
+- Created a prevention checklist for online safety  
+- Included reporting details (Cyber Crime Portal & Helpline 1930)  
+
+---
+
+## Key Learnings
+- Importance of digital literacy in academic and professional life  
+- Building and maintaining a professional online presence  
+- Basics of coding and collaboration tools  
+- Proper email etiquette and communication skills  
+- Awareness of cybercrime and online safety practices  
+
+---
+
+## Tools & Platforms Used
+- Canva  
+- GitHub  
+- LinkedIn  
+- Kaggle  
+- HackerRank  
+- Google Forms  
+
+---
+
+## Final Note
+This project helped me develop essential digital skills and awareness, which will be useful throughout my academic journey and future career.
+
+---
